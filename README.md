@@ -1,10 +1,3 @@
-### Hi there 👋
-
-<!--
-**CemalCanNumanoglu/CemalCanNumanoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🌱 I’m currently learning Swift,Unreal Engine 5
 - 📫 How to reach me: xanumanoglu@gmail.com
 - ⚡ Fun fact: I love to play basketball and play/create games
@@ -14,4 +7,4 @@ Here are some ideas to get you started:
 ![Github stats 2](https://github-readme-stats.vercel.app/api?username=kullanıcıadınız&show_icons=true&theme=radical)
 
 
--->
+
